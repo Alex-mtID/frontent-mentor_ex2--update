@@ -1,5 +1,5 @@
 # Frontend Mentor - NFT preview card component
-# https://alex-mtid.github.io/frontent-mentor_ex2--update/
+[https://alex-mtid.github.io/frontent-mentor_ex2--update/](https://alexid-id.github.io/frontent-mentor_ex2/)
 
 ## Welcome! 👋
 
